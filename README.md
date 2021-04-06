@@ -1,6 +1,4 @@
 ### Hi there 👋
-### Language and Tools:
-### React Redux Node.js PostgreSQL Sequelize TypeScript Javascript CSS3 CSS3 HTML5 Sass Material-ui Bootstrap
 
 <!--
 **ele1992/ele1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
