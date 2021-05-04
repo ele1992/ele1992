@@ -30,7 +30,7 @@ Connect with me [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.l
 </br>
 
 ### My projects
-
+League of Tinder is a platform where players of the game League of Legends can match with other players with the same interests wether this is ranked or a casual ARAM. 
 
 You can find more information on this project [here](https://github.com/ele1992/LeagueofTinder).
                                                                                                         
