@@ -2,6 +2,11 @@
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
+### Connect with me [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/tjin-yip-au-yeung/)
+
+
+### Languages and Tools
+
 <p>
  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" height="40" style="vertical-align:top; margin:4px">
