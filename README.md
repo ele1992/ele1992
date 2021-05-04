@@ -29,9 +29,9 @@
 
 
 #### My projects
-For my final project of the Codaisseur Academy I created Dinely. Dinely is an app in which you can keep track of your restaurants, you can add restaurants to your wishlist and review restaurants you have visited. Dinely is build with React Native and TypeScript. I am currently working on a web version of the app.
 
-You can find more information on this project [here](https://github.com/annadrg/dinely-frontend).
+
+You can find more information on this project [here](https://github.com/ele1992/LeagueofTinder).
                                                                                                         
 
 
