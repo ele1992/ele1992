@@ -28,7 +28,7 @@ Connect with me [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.l
 <a href="https://getbootstrap.com/"> <img align="left" alt="Bootstrap" title="Bootstrap" height="30px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" /> </a>
 
 
-#### My projects
+### My projects
 
 
 You can find more information on this project [here](https://github.com/ele1992/LeagueofTinder).
