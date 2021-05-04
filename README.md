@@ -7,21 +7,26 @@ Format: ![Alt Text](url)
 
 ### Languages and Tools
 
-<p>
-<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5" height="40" style="vertical-align:top; margin:4px"> 
-<img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" alt="Sequelize" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material-ui" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
-</p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" /></a>
+
+<a href="https://www.typescriptlang.org/"> <img align="left" alt="TypeScript" title="TypeScript" width="30px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" /></a>
+
+<a href="https://nodejs.org/en/"> <img align="left" alt="Node.js" title="Node.js" width="30px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" /></a>
+
+<a href="https://reactjs.org/"> <img align="left" alt="React" title="React" width="30px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
+
+<a href="https://redux.js.org"> <img align="left" alt="Redux" title="Redux" width="30px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" /></a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"> <img align="left" alt="HTML5" title="HTML5" height="30px" src="https://cdn.worldvectorlogo.com/logos/html5.svg" /></a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img align="left" alt="CSS3" title="CSS3" height="30px" src="https://cdn.worldvectorlogo.com/logos/css-5.svg" /></a>
+
+<a href="https://www.postgresql.org/"> <img align="left" alt="PostgreSQL" title="PostgreSQL" height="30px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" /> </a>
+                                                                                                                                                     
+<a href="https://sequelize.org/"> <img align="left" alt="Sequelize" title="Sequelize" height="30px" src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" /> </a>
+
+<a href="https://getbootstrap.com/"> <img align="left" alt="Bootstrap" title="Bootstrap" height="30px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" /> </a>
+
 
 <!--
 **ele1992/ele1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
