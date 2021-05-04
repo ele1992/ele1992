@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I am Yip 👋
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 <!--
 **ele1992/ele1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
