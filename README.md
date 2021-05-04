@@ -1,8 +1,8 @@
 ### Hi, I am Yip 👋
 
-### A Full Stack Developer located in Utrecht
+A Full Stack Developer located in Utrecht
 
-### Connect with me [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/tjin-yip-au-yeung/)
+Connect with me [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/tjin-yip-au-yeung/)
 
 ### Languages and Tools
 
